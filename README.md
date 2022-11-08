@@ -1,2 +1,1 @@
-# dupadupa4
-Tak jak mowie, dupa 4.
+# Football web server 
